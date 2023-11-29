@@ -1,6 +1,4 @@
-# name
-
-SSL_SubBoard
+# SSL_SubBoard
 
 ## overview
 
@@ -40,6 +38,7 @@ https://www.analog.com/media/jp/technical-documentation/data-sheets/j3751fc.pdf
 ## Author
 
 [@Allsatako](http://twitter.com/Allsatako)
+
 mail to: rionesslq@gmail.com
 
 ## Licence
