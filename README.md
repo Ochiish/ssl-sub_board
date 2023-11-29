@@ -1,7 +1,7 @@
 # SSL　SubBoard
 <img src="ImageForReadme/original.gif" width="400">
 
-## overview
+## Overview
 
 This is a sub-board installed in the SSL robot.
 The boost circuit, neopixel, phototransistor, etc. are controlled by stm32, and CAN communication is performed with the main board.
@@ -12,7 +12,7 @@ The boost circuit, neopixel, phototransistor, etc. are controlled by stm32, and 
 
 ## Usage
 
-It's a pain to explain. Good luck..
+Good luck...
 
 ## Features
 
@@ -37,8 +37,8 @@ This is a sub-board installed in an SSL robot. The board is equipped with variou
 In this way, the sub-board supports crucial functions of the SSL robot, drawing out the robot's maximum performance through advanced technology and meticulous design.
 
 <p align="center">
-  <img src="ImageForReadme/231107_ssl_subboard_v1.0.jpg" width="400">
-  <img src="ImageForReadme/231107_ssl_subboard_v1.0.png" width="400">
+  <img src="ImageForReadme/231107_ssl_subboard_v1.0.jpg" width="600">
+  <img src="ImageForReadme/231107_ssl_subboard_v1.0.png" width="600">
 </p>
 
 
