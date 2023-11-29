@@ -1,5 +1,6 @@
 # SSL　SubBoard
 <img src="ImageForReadme/original.gif" width="400">
+
 ## overview
 
 This is a sub-board installed in the SSL robot.
@@ -44,6 +45,10 @@ CAN communication is known for its high reliability and error detection capabili
 This allows for smooth overall operation and the ability to perform more complex tasks.
 
 In this way, the sub-board supports crucial functions of the SSL robot, drawing out the robot's maximum performance through advanced technology and meticulous design.
+
+<img src="ImageForReadme/231107_ssl_subboard_v1.0.jpg" width="400">
+<img src="ImageForReadme/231107_ssl_subboard_v1.0.png" width="400">
+
 
 ## Reference
 
