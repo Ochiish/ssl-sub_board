@@ -1,4 +1,4 @@
-# SSL　SubBoard
+# SubBoard for SSL
 <img src="ImageForReadme/original.gif" width="400">
 
 ## Overview
@@ -38,6 +38,8 @@ In this way, the sub-board supports crucial functions of the SSL robot, drawing 
 
 <p align="center">
   <img src="ImageForReadme/image1.png" width="600">
+
+  
   <img src="ImageForReadme/image2.png" width="600">
 </p>
 
