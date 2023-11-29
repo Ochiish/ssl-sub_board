@@ -1,5 +1,5 @@
 # SSL　SubBoard
-
+<img src="ImageForReadme/original.gif" width="400">
 ## overview
 
 This is a sub-board installed in the SSL robot.
