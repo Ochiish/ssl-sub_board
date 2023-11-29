@@ -1,4 +1,4 @@
-# SSL　SubBoard
+# SubBoard for SSL
 <img src="ImageForReadme/original.gif" width="400">
 
 ## Overview
@@ -37,8 +37,10 @@ This is a sub-board installed in an SSL robot. The board is equipped with variou
 In this way, the sub-board supports crucial functions of the SSL robot, drawing out the robot's maximum performance through advanced technology and meticulous design.
 
 <p align="center">
-  <img src="ImageForReadme/231107_ssl_subboard_v1.0.jpg" width="600">
-  <img src="ImageForReadme/231107_ssl_subboard_v1.0.png" width="600">
+  <img src="ImageForReadme/image1.png" width="600">
+
+  
+  <img src="ImageForReadme/image2.png" width="600">
 </p>
 
 
